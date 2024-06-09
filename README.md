@@ -1,5 +1,13 @@
 # Healthcare-Analysis-Dashboard
 
+## Dataset
+
+https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india?datasetId=557629&sortBy=voteCount
+https://www.kaggle.com/code/anshuls235/covid19-explained-through-visualizations/data
+(COVID-19 in India)
+
+
+
 ## Introduction
 
 The COVID-19 pandemic has had a profound impact on global health, economies, and societies. Understanding the multifaceted nature of the pandemic is crucial for effective tracking, resource allocation, and informed decision-making. This healthcare dashboard aims to provide a comprehensive and interactive platform for exploring and understanding the various aspects of the COVID-19 pandemic in India.
