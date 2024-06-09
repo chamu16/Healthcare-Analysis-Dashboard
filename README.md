@@ -2,6 +2,7 @@
 
 ## Dataset
 
+https://geographicalanalysis.com/download-free-india-shapefile-including-kashmir-and-ladakh/
 https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india?datasetId=557629&sortBy=voteCount
 https://www.kaggle.com/code/anshuls235/covid19-explained-through-visualizations/data
 (COVID-19 in India)
